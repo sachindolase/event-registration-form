@@ -34,9 +34,9 @@ field is answered with "Yes".
 ● Implement custom hooks for form validation and management.
 ● Ensure a clean and user-friendly interface with clear error messages.
 
-Screenshots:
+# Screenshots:
 ![Screenshot (678)](https://github.com/sachindolase/event-registration-form/assets/125812863/2d555172-8761-4b7d-9425-f928a3b49a21)
 ![Screenshot (679)](https://github.com/sachindolase/event-registration-form/assets/125812863/e7052a02-1644-43e3-9f76-53568242c193)
 
-Live Demo : https://event-registration-form-three.vercel.app/
+# Live Demo : https://event-registration-form-three.vercel.app/
 
