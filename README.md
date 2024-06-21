@@ -30,6 +30,7 @@ field is answered with "Yes".
 ○ On form submission, display a summary of the entered data.
 
 # Requirements:
+
 ● Use React functional components and hooks (useState, useEffect).
 ● Implement custom hooks for form validation and management.
 ● Ensure a clean and user-friendly interface with clear error messages.
